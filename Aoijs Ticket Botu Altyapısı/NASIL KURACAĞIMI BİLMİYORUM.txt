@@ -1,0 +1,23 @@
+- Elixir Development (https://discord.gg/elixirdev)
+
+- Aoijs Gelişmiş Ticket Botu Altyapısı!
+
+- Nasıl Kurulum Yapıcam?
+Aslında projeyi kurmak çok basit proje klasörü içinde "ayarlar.json" dosyası var. Bu dosyanın içinde botun
+tokenini koyabileceğiniz bir yer bulunmakta. ŞU ŞEKİLDE:
+----------------
+{
+    "token": "",
+    "prefix": "?"
+}
+----------------
+Burda "" olarak boş olan yere botunuzun tokeninin gireceksiniz daha sonra da botu başlatabilirsiniz
+herşey hazır bir şekilde bot aktif olacak ve komutları kullanabileceksiniz :D
+
+
+
+
+
+
+
+BU ALTYAPI ELİXİR DEVELOPMENT'E AİTTİR İZİNSİZ PAYLAŞILMASI YASAKTIR!
